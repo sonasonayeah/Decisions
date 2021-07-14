@@ -1,0 +1,13 @@
+C:\Users\stunt\OneDrive\Documents\code n stuff\Decisions\Decisions\Decisions\bin\Debug\netcoreapp3.1\Decisions.exe
+C:\Users\stunt\OneDrive\Documents\code n stuff\Decisions\Decisions\Decisions\bin\Debug\netcoreapp3.1\Decisions.deps.json
+C:\Users\stunt\OneDrive\Documents\code n stuff\Decisions\Decisions\Decisions\bin\Debug\netcoreapp3.1\Decisions.runtimeconfig.json
+C:\Users\stunt\OneDrive\Documents\code n stuff\Decisions\Decisions\Decisions\bin\Debug\netcoreapp3.1\Decisions.runtimeconfig.dev.json
+C:\Users\stunt\OneDrive\Documents\code n stuff\Decisions\Decisions\Decisions\bin\Debug\netcoreapp3.1\Decisions.dll
+C:\Users\stunt\OneDrive\Documents\code n stuff\Decisions\Decisions\Decisions\bin\Debug\netcoreapp3.1\Decisions.pdb
+C:\Users\stunt\OneDrive\Documents\code n stuff\Decisions\Decisions\Decisions\obj\Debug\netcoreapp3.1\Decisions.csproj.AssemblyReference.cache
+C:\Users\stunt\OneDrive\Documents\code n stuff\Decisions\Decisions\Decisions\obj\Debug\netcoreapp3.1\Decisions.AssemblyInfoInputs.cache
+C:\Users\stunt\OneDrive\Documents\code n stuff\Decisions\Decisions\Decisions\obj\Debug\netcoreapp3.1\Decisions.AssemblyInfo.cs
+C:\Users\stunt\OneDrive\Documents\code n stuff\Decisions\Decisions\Decisions\obj\Debug\netcoreapp3.1\Decisions.csproj.CoreCompileInputs.cache
+C:\Users\stunt\OneDrive\Documents\code n stuff\Decisions\Decisions\Decisions\obj\Debug\netcoreapp3.1\Decisions.dll
+C:\Users\stunt\OneDrive\Documents\code n stuff\Decisions\Decisions\Decisions\obj\Debug\netcoreapp3.1\Decisions.pdb
+C:\Users\stunt\OneDrive\Documents\code n stuff\Decisions\Decisions\Decisions\obj\Debug\netcoreapp3.1\Decisions.genruntimeconfig.cache
